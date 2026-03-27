@@ -1,0 +1,4 @@
+@wait time="1s"
+@dialogue pos="R" portrait="zephyrus" text="There he is!!"
+@dialogue pos="R" portrait="zephyrus:happy" text="Now I can do the thing!!!!"
+@dialogue pos="R" portrait="zephyrus:scream" text="Here I go!! Watch me live, bee!!!!!!"
