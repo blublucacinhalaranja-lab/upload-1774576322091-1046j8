@@ -1,0 +1,8 @@
+@wait time="1s"
+@dialogue pos="L" portrait="warner" text="Well, well, well, what do we have here? "
+@dialogue pos="L" portrait="warner:smug" text="You look a little lost."
+@dialogue pos="R" portrait="bf:happy" text="beep bop bap, skdee bop!"
+@dialogue pos="L" portrait="warner:normal" text="Damn, for real?"
+@dialogue pos="L" portrait="warner" text="You've got balls coming into my domain \nand throwing around big words like that."
+@dialogue pos="L" portrait="warner:smug" text="Hope you're ready to get your ass \nhanded to you, blue."
+@dialogue pos="L" portrait="warner:laugh" text="I'll make you eat those words, \nprepare to be crushed by my singing!"
